@@ -181,8 +181,8 @@ var encoder = avro.createFileEncoder('./processed.avro', type);
 
 ## Next steps
 
-The [API documentation](Api) provides a comprehensive list of available
-functions and their options. The [Advanced usage section](Advanced-usage) goes
+The [API documentation](API.md) provides a comprehensive list of available
+functions and their options. The [Advanced usage section](Advanced-usage.md) goes
 through a few examples to show how the API can be used.
 
 
